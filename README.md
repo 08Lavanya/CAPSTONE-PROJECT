@@ -17,7 +17,8 @@ This project builds a single, deterministic BigBasket-style dataset and verifies
 - `BigBasket Category Analysis.xlsx` — spreadsheet cross-check workbook (Part 2)
 - `DATA_STORY.md` — written interpretation of the Tableau dashboard and recommendations
 - `ai_log.md` — AI-assisted prompting log (RCTCF format)
-- `analysis.ipynb` — Python/Pandas cleaning and cross-validation notebook (Part 4) — to be added
+- `analysis.ipynb` — See [analysis.ipynb](analysis.ipynb) for the full Pandas cleaning and cross-validation notebook.
+
 - `README.md` — this file
 
 ## How to Regenerate the Data
